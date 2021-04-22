@@ -1,0 +1,16 @@
+
+
+
+gcloud deployment-manager deployments create vminstances --config=vm.yml
+
+gcloud deployment-manager deployments update vminstances --config=vm.yml
+
+
+gcloud deployment-manager deployments delete vminstances
+
+
+
+
+
+https://cloud.google.com/monitoring/quickstart-lamp#new-flow
+
