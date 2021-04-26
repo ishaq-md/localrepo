@@ -1,4 +1,4 @@
-resources:
+resource:
 - name: compute-instance
   type: compute.v1.instance
   properties:
